@@ -3,9 +3,9 @@
 
 
 # How it looks like: 
-![image](https://github.com/user-attachments/assets/57264421-0c0c-421b-a235-3a7cc288acae)
+![image](titleframe.png)
 
-![image](https://github.com/user-attachments/assets/b708c04c-f22a-4a93-9225-e05bc7cec05c)
+![image](sampleframe.png)
 
 
 
